@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+# Hi, I'm Jhoni 👋 I'm a Frontend Software Engineer!
+
+🧑🏾‍💻 I'm currently working on a consulting company.
+
+💬 Ask me about JavaScript, Frontend development, JAMstack.
+
+📫 How to reach me: hi@jhonipereira.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Squirrels fail to recover up to 74 percent of the acorns they store (many of these are buried in the ground), this is “practically planting” baby trees.
+
+
+## 🔗 Links
+🐦 [twitter][twitter] **|** 
+👨🏾‍💼 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/Jhoni_Tech
+[linkedin]: https://www.linkedin.com/in/jhoni-pereira/
+
 <!--
 **jhonipereira/jhonipereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
