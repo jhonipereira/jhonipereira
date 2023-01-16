@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi, I'm Jhoni 👋 I'm a Frontend Software Engineer!
 
 🧑🏾‍💻 I'm currently working on a consulting company.
