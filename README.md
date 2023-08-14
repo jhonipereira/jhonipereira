@@ -1,8 +1,8 @@
-# Hi, I'm Jhoni 👋 I'm a Frontend Software Engineer!
+# Hi, I'm Jhoni Pereira👋
 
 🧑🏾‍💻 I'm currently working on a consulting company.
 
-💬 Ask me about JavaScript, Frontend development, JAMstack.
+💬 Ask me about JavaScript, PHP, and Laravel.
 
 📫 How to reach me: hi@jhonipereira.com
 
