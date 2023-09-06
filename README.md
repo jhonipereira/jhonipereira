@@ -2,9 +2,11 @@
 
 🧑🏾‍💻 I'm currently working on a consulting company.
 
-💬 Ask me about JavaScript, PHP, and Laravel.
+💬 Ask me about JavaScript, React, PHP, Laravel, and GO.
 
-📫 How to reach me: hi@jhonipereira.com
+🚀 I'm looking forward to learning more about ML.
+
+📫 Reach me at: hi@jhonipereira.com
 
 😄 Pronouns: He/Him
 
