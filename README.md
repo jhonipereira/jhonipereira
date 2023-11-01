@@ -13,10 +13,10 @@
 ⚡ Fun fact: Squirrels fail to recover up to 74 percent of the acorns they store (many of these are buried in the ground), this is “practically planting” baby trees.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api?username=jhonipereira&include_all_commits=true&theme=vue-dark&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api?username=jhonipereira&include_all_commits=true&theme=vue-dark&rank_icon=percentile" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api/top-langs/?username=jhonipereira&size_weight=0.5&count_weight=0.5&hide=html,css,scss&layout=donut&theme=vue-dark&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api/top-langs/?username=jhonipereira&size_weight=0.5&count_weight=0.5&hide=html,css,scss&layout=donut&theme=vue-dark&include_all_commits=true" />
 </a>
 
 
