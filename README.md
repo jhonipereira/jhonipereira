@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api?username=jhonipereira&include_all_commits=true&theme=vue-dark&rank_icon=percentile" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api/top-langs/?username=jhonipereira&size_weight=0.5&count_weight=0.5&hide=html,css,scss,astro,javascript&layout=donut&theme=vue-dark&include_all_commits=true&exclude_repo=github-readme-stats,movie-catalog-fe,vscode-generator-code,cypress,cypress-tester,hero-names,starwars-names,tinbird,dev-productivity" />
+  <img height=200 align="center" src="https://github-readme-stats-6qper408w-jhonipereira.vercel.app/api/top-langs/?username=jhonipereira&size_weight=0.5&count_weight=0.5&hide=html,css,scss,astro,javascript,blade&layout=donut&theme=vue-dark&include_all_commits=true&exclude_repo=github-readme-stats,movie-catalog-fe,vscode-generator-code,cypress,cypress-tester,hero-names,starwars-names,tinbird,dev-productivity" />
 </a>
 
 
