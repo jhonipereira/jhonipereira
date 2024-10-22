@@ -1,6 +1,6 @@
-# Hi, I'm Jhoni Pereira👋
+# Hi, I'm Jhoni 👋
 
-🧑🏾‍💻 I'm currently working on a consulting company.
+🧑🏾‍💻 I'm currently working on a SaaS company.
 
 💬 Ask me about JavaScript, React, PHP, Laravel, and GO.
 
