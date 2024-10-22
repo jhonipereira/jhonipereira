@@ -20,11 +20,6 @@
 </a>
 
 
-## 🔗 Links
-🐦 [twitter][twitter] **|** 
-👨🏾‍💼 [linkedin][linkedin]
-
-
 [twitter]: https://twitter.com/Jhoni_Tech
 [linkedin]: https://www.linkedin.com/in/jhoni-pereira/
 
